@@ -1,8 +1,5 @@
-![Screen Shot 2020-10-08 at 1 51 14 PM](https://user-images.githubusercontent.com/14168559/95512338-8ad17480-096d-11eb-950b-75117697e0c6.png)
 ### Hi there 👋
-
-
-My name is Michael Connell
+![Screen Shot 2020-10-08 at 1 51 14 PM](https://user-images.githubusercontent.com/14168559/95512338-8ad17480-096d-11eb-950b-75117697e0c6.png)
 
 <!--
 **MiConnell/MiConnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
