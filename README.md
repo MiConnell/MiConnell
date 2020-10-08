@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Screen Shot 2020-10-08 at 1 51 14 PM](https://user-images.githubusercontent.com/14168559/95512338-8ad17480-096d-11eb-950b-75117697e0c6.png)
+![about_me.py](https://user-images.githubusercontent.com/14168559/95524233-ab0d2d80-0985-11eb-9cb4-6a518391e2b8.png)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=miconnell)
 
