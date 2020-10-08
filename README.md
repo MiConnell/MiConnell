@@ -1,6 +1,9 @@
 ### Hi there 👋
 ![Screen Shot 2020-10-08 at 1 51 14 PM](https://user-images.githubusercontent.com/14168559/95512338-8ad17480-096d-11eb-950b-75117697e0c6.png)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=miconnell)
+
+[![Michael's github stats](https://github-readme-stats.vercel.app/api?username=Miconnell)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MiConnell/MiConnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
