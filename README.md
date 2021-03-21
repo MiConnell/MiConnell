@@ -3,18 +3,23 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=miconnell)
 
-[![Michael's github stats](https://github-readme-stats.vercel.app/api?username=Miconnell&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Michael's github stats](https://github-readme-stats.vercel.app/api?username=Miconnell&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--
 **MiConnell/MiConnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on mastering Python
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on
+-   Mastering SQL
+-   Mastering Python
+
+🌱 I’m currently learning
+- Solidity
+- Web3
+- Golang
+- Javascript
+
+☺️ I enjoy
+- Playing guitar
+- Reading
+- Challenging myself to learn new things
