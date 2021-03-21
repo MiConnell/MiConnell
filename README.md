@@ -8,7 +8,7 @@
 **MiConnell/MiConnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 🔭 I’m currently working on
 -   Mastering SQL
 -   Mastering Python
@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 - Playing guitar
 - Reading
 - Challenging myself to learn new things
+-->
